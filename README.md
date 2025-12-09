@@ -10,10 +10,16 @@ using Transformer-based language models such as BERT.
 - [Goals (Month 1)](#goals-month-1)
 - [Future Plan](#future-plan)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [Weekly Progress](#weekly-progress)
 
-## Month 1 Goal
+## Overview
+AI is often used for text generation or correction, but many tools do not 
+measure user growth or provide explainable scoring.
+This project explores how to evaluate grammar, fluency, and logical structure 
+in writing, using deep learning models with a long-term plan to build a 
+hybrid local + cloud system.
+
+## Goals (Month 1)
 - Understand tokenization and how NLP models convert text into embeddings
 - Create a basic classifier to distinguish "good" vs "bad" sentences
 - Extend to a regression model that outputs a grammar score (1–5)
@@ -29,3 +35,12 @@ feedback system for students, researchers, and business professionals.
 - HuggingFace Transformers
 - FastAPI (planned)
 - ONNX Runtime + C++ (future plan)
+
+
+## Weekly Progress
+| Week | Status | Description |
+|------|--------|-------------|
+| Week 1 | In progress | Tokenization & BERT embeddings |
+| Week 2 | Planned | Binary classification |
+| Week 3 | Planned | Regression scoring |
+| Week 4 | Planned | API deployment |
