@@ -41,6 +41,6 @@ feedback system for students, researchers, and business professionals.
 | Week | Status | Description |
 |------|--------|-------------|
 | Week 1 | ✅ Completed  | Tokenization & BERT embeddings |
-| Week 2 | Planned | Binary classification |
+| Week 2 |  🔄 In progress | Binary classification |
 | Week 3 | Planned | Regression scoring |
 | Week 4 | Planned | API deployment |
